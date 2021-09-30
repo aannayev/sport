@@ -18,8 +18,9 @@
     "sass": "^1.41.0"
   },
   "dependencies": {
-    "gulp": "^4.0.2",
-    "autoprefixer": "^6.5.4"
+    "animate.css": "^4.1.1",
+    "autoprefixer": "^6.5.4",
+    "gulp": "^4.0.2"
   },
   "browserslist": [
     "last 1 version",

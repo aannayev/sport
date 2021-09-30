@@ -7,6 +7,11 @@
   max-width: 950px;
   margin: 0 auto;
 }
+html,
+body {
+  width: 100%;
+  overflow-x: hidden;
+}
 @import "blocks/promo";
 @import "blocks/header.scss";
 @import "blocks/buttons";
@@ -19,3 +24,5 @@
 @import "blocks/feed";
 @import "blocks/footer";
 @import "blocks/modal";
+@import "base/media";
+// @import "animate.css";
